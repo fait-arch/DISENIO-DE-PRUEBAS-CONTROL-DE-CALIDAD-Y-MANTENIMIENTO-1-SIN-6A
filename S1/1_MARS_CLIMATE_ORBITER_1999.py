@@ -13,4 +13,5 @@ impulso_B = calcular_impulso_imperial(100, 10)  # 100 lbf·s
 print(f"Sistema A calcula: {impulso_A} Newton-segundos")
 print(f"Sistema B calcula: {impulso_B} Libra-fuerza-segundos")
 print(f"Conversión real: {impulso_B * 4.448222} Newton-segundos")
-print(f"❌ Error de cálculo: {abs(impulso_A - (impulso_B * 4.448222))} N·s")
+print(f"❌ Error de cálculo: {abs(impulso_A - (impulso_B * 4.448222))} N·s") #Pruebas de integracion entre sistemas fallidas
+
