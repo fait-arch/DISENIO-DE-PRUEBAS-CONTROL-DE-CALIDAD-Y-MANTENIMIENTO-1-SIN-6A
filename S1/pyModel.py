@@ -1,3 +1,8 @@
+'''
+Modelo PyModel para una máquina expendedora simple.
+Echo: fait-arch y ChatGPT 5 mini
+'''
+
 from vendingmachine import *
 
 # Estados iniciales
