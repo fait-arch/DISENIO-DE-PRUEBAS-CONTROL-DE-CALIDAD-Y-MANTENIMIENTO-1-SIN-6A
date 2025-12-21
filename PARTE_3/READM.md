@@ -5,7 +5,7 @@ Esta carpeta corresponde a la **PARTE 3 del proyecto final** de la asignatura
 
 El contenido de esta parte se encuentra en la rama:
 
-👉 **`parte3-modelo-predictivo`**
+**`parte3-modelo-predictivo`**
 
 Por favor, asegúrese de seleccionar esta rama en GitHub para revisar correctamente los entregables.
 
@@ -13,9 +13,9 @@ Por favor, asegúrese de seleccionar esta rama en GitHub para revisar correctame
 
 ---
 
-## 🔹 Sección 1: Comparación Codeless vs. Traditional
+## Sección 1: Comparación Codeless vs. Traditional
 
-📄 **Archivo:** `SECCION_1_COMPARACION/Seccion_1_Comparacion.pdf`
+**Archivo:** `SECCION_1_COMPARACION/Seccion_1_Comparacion.pdf`
 
 Contiene el análisis comparativo solicitado en el enunciado del proyecto entre:
 
@@ -37,9 +37,9 @@ Incluye **análisis estadístico aplicado al proyecto**, incorporando:
 
 ---
 
-## 🔹 Sección 2: Modelo Predictivo de Confiabilidad
+##  Sección 2: Modelo Predictivo de Confiabilidad
 
-📂 **Carpeta:** `SECCION_2_MODELO_PREDICTIVO/`
+**Carpeta:** `SECCION_2_MODELO_PREDICTIVO/`
 
 Esta sección implementa un **modelo predictivo personalizado de confiabilidad**, que cumple con los siguientes criterios del enunciado:
 
@@ -52,7 +52,7 @@ Esta sección implementa un **modelo predictivo personalizado de confiabilidad**
 
 El detalle técnico, supuestos del modelo y explicación de resultados se encuentra documentado en:
 
-📄 `SECCION_2_MODELO_PREDICTIVO/README.md`
+`SECCION_2_MODELO_PREDICTIVO/README.md`
 
 ---
 
