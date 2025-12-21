@@ -1,3 +1,5 @@
+Sección 2 – Modelo predictivo: PARTE_3/SECCION_2_MODELO_PREDICTIVO/README.md
+
 ## 📌 PARTE 3: Investigación y Propuesta Innovadora
 
 **Valor: 09 puntos**
