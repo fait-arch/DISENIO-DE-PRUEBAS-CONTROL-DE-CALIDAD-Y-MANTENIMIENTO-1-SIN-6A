@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[Video de Youtube](https://www.youtube.com/watch?v=JSI1SOiPwzI)
+
+
 ## Estructura del Repositorio
 
 Este repositorio está organizado en tres partes principales, cada una representando una fase clave del proyecto con su respectivo READMe.
