@@ -4,9 +4,9 @@
 
 ## Estructura del Repositorio
 
-Este repositorio está organizado en tres partes principales, cada una representando una fase clave del proyecto.
+Este repositorio está organizado en tres partes principales, cada una representando una fase clave del proyecto con su respectivo READMe.
 
-### [PARTE 1: Evolución del Framework de Pruebas (Valor: 09 puntos)](./PARTE_1)
+### [PARTE 1: Evolución del Framework de Pruebas (Valor: 09 puntos)](./PARTE_1/PARTE_1.md)
 
 En esta sección se aborda la creación y extensión de frameworks de pruebas, junto con la implementación de métricas avanzadas para evaluar la calidad del software.
 
@@ -19,7 +19,7 @@ En esta sección se aborda la creación y extensión de frameworks de pruebas, j
 *   **Sección 3: Métricas Avanzadas de Calidad (3 puntos)**
     *   Implementación de un sistema de métricas que incluye complejidad ciclomática por prueba, detección de pruebas inestables (*flaky tests*), análisis de tiempo de ejecución y la relación entre cobertura y defectos detectados.
 
-### [PARTE 2: Integración de Técnicas Avanzadas (Valor: 10 puntos)](./PARTE_2)
+### [PARTE 2: Integración de Técnicas Avanzadas (Valor: 10 puntos)](./PARTE_2/PARTE_2.md)
 
 Esta parte se enfoca en la automatización y orquestación de estrategias de prueba complejas dentro de un pipeline de integración continua.
 
@@ -29,7 +29,7 @@ Esta parte se enfoca en la automatización y orquestación de estrategias de pru
 *   **Sección 2: Pipeline de Testing Integral (5 puntos)**
     *   Diseño e implementación de un pipeline de testing que integra análisis estático (SonarQube), pruebas unitarias, de mutación y de cobertura (Istanbul, Jasmine, Stryker), pruebas combinatorias (ACTS), automatización sin código (TestCraft) y un modelo predictivo de confiabilidad (SMERFS, Frestimate).
 
-### [PARTE 3: Investigación y Propuesta Innovadora (Valor: 09 puntos)](./PARTE_3)
+### [PARTE 3: Investigación y Propuesta Innovadora (Valor: 09 puntos)](./PARTE_3/README.md)
 
 La sección final consiste en una investigación comparativa y el diseño de una solución innovadora para la predicción de la confiabilidad del software.
 
