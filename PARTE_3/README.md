@@ -3,16 +3,6 @@
 Esta carpeta corresponde a la **PARTE 3 del proyecto final** de la asignatura  
 **Diseño de Pruebas, Control de Calidad y Mantenimiento**.
 
-El contenido de esta parte se encuentra en la rama:
-
-**`parte3-modelo-predictivo`**
-
-Por favor, asegúrese de seleccionar esta rama en GitHub para revisar correctamente los entregables.
-
----
-
----
-
 ## Sección 1: Comparación Codeless vs. Traditional
 
 **Archivo:** `SECCION_1_COMPARACION/Seccion_1_Comparacion.pdf`
