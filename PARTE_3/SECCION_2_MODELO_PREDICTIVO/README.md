@@ -5,6 +5,8 @@ Este módulo implementa un modelo simple de predicción de confiabilidad por mó
 - Un componente logarítmico que representa tendencia de riesgo (defectos históricos, complejidad y uso).
 - Un componente estocástico que representa variabilidad (tasa de fallos, cobertura y mutation kill rate).
 
+Las métricas utilizadas en el modelo no provienen de una exportación directa del servidor SonarQube, sino que representan valores consolidados y normalizados a partir de los resultados observados en las herramientas de análisis utilizadas por el equipo durante las Partes 1 y 2 del proyecto.
+
 La salida se genera por módulo en formato JSON para integrarse fácilmente con reportes del repositorio.
 
 ## Archivos
